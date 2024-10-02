@@ -32,7 +32,6 @@ This project involves predicting house prices using an Artificial Neural Network
 - **data/**: Contains the raw and processed datasets.
 - **models/**: Contains the saved model and scaler.
 - **notebooks/**: Jupyter notebooks used for exploration, training, and evaluation.
-- **src/**: Python scripts for data preprocessing, model training, and prediction.
 - **deployment/**: Flask API for making predictions.
 - **README.md**: Project documentation.
 
