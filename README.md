@@ -97,7 +97,7 @@ A Flask API was created to serve the model for real-time predictions. The API ac
     ```bash
     pip install -r requirements.txt
     ```
-3. **Run the API**:
+3. **Navigate to the `deployment` directory and run the API**:
     ```bash
     python app.py
     ```
